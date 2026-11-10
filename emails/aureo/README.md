@@ -1,6 +1,6 @@
 # AUREO — E-mails Opera Prima
 
-Artes originais preservadas em imagens JPEG otimizadas, divididas em blocos contínuos e montadas em tabelas HTML responsivas de 600 px, com imagens de 1200 px para telas de alta densidade. Conteúdo visual é rasterizado; não é texto editável no RD Station. Cada imagem tem texto alternativo.
+Artes originais preservadas em imagens JPEG otimizadas, divididas em blocos contínuos e montadas em tabelas HTML responsivas de 600 px, com imagens de 1200 px para telas de alta densidade. Os parágrafos menores são texto HTML real, selecionável, com fonte Arial/Helvetica e estilos inline. Fotos, logotipos, títulos e chamadas com tipografia especial permanecem em imagem com texto alternativo. O botão do EMKT 4 também é HTML.
 
 ## EMKT 1
 
