@@ -1,0 +1,30 @@
+[
+  {
+    "email": 1,
+    "assunto": "Algo novo está chegando.",
+    "arquivo": "emkt-01.html",
+    "url": "https://aiinvente.github.io/opera-prima/emails/aureo/emkt-01.html",
+    "cta_url": "https://www.aureo.com.br/"
+  },
+  {
+    "email": 2,
+    "assunto": "Tudo que você gosta no Bigorrilho, e mais um motivo para ficar",
+    "arquivo": "emkt-02.html",
+    "url": "https://aiinvente.github.io/opera-prima/emails/aureo/emkt-02.html",
+    "cta_url": "https://www.aureo.com.br/"
+  },
+  {
+    "email": 3,
+    "assunto": "Piso aquecido, elevador privativo, mármore. Conheça o AUREO por dentro.",
+    "arquivo": "emkt-03.html",
+    "url": "https://aiinvente.github.io/opera-prima/emails/aureo/emkt-03.html",
+    "cta_url": "https://www.aureo.com.br/"
+  },
+  {
+    "email": 4,
+    "assunto": "19 unidades. Uma pode ser sua.",
+    "arquivo": "emkt-04.html",
+    "url": "https://aiinvente.github.io/opera-prima/emails/aureo/emkt-04.html",
+    "cta_url": "https://www.aureo.com.br/"
+  }
+]
